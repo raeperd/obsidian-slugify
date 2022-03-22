@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.1",
+	"id": "obsidian-slugify",
+	"name": "Obsidian Slugify",
+	"version": "0.0.1",
 	"minAppVersion": "0.12.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "This is a slugify plugin for Obsidian.",
+	"author": "raeperd",
+	"authorUrl": "https://raeperd.github.io/",
 	"isDesktopOnly": false
 }
