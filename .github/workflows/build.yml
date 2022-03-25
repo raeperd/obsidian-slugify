@@ -11,6 +11,7 @@ jobs:
                   node-version: lts/gallium
                   cache: npm
             - run: npm ci
+            - run: npm run test
             - run: npm run build
             - uses: actions/upload-artifact@v3
               with:
